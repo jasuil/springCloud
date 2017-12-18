@@ -1,1 +1,19 @@
-gretting: "hi, jasuil"
+gretting: "hi, jasuil 안뇽~"
+
+***
+
+spring:
+  properties: stage
+gretting: "스테이징 서버"
+
+***
+
+spring:
+  properties: stage
+gretting: "개발 서버"
+
+***
+
+spring:
+  properties: stage
+gretting: "로컬 서버"
