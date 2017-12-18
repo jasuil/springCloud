@@ -1,19 +1,19 @@
-gretting: "hi, jasuil 안뇽~"
+greeting: "hi, jasuil 안뇽~"
 
 ---
 
 spring:
   profiles: stage
-gretting: "스테이징 서버"
+greeting: "스테이징 서버"
 
 ---
 
 spring:
   profiles: dev
-gretting: "개발 서버"
+greeting: "개발 서버"
 
 ---
 
 spring:
   profiles: local
-gretting: "로컬 서버"
+greeting: "로컬 서버"
