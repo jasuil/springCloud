@@ -1,18 +1,18 @@
 gretting: "hi, jasuil 안뇽~"
 
-***
+---
 
 spring:
   profiles: stage
 gretting: "스테이징 서버"
 
-***
+---
 
 spring:
   profiles: stage
 gretting: "개발 서버"
 
-***
+---
 
 spring:
   profiles: stage
